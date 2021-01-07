@@ -1,0 +1,8 @@
+github.com/c9s/inflect v0.0.0-20130402162822-006c50878f3f h1:sfSR+DQofxa5poubse9++Zv6wE70rAQ+IZQThxhVHxU=
+github.com/c9s/inflect v0.0.0-20130402162822-006c50878f3f/go.mod h1:IyAzlY1qfFweht0xujIYk1aO4Ele06nfXJ+E94dmGIw=
+github.com/go-openapi/swag v0.0.0-20170606142751-f3f9494671f9 h1:4Zsyv/tIS5V+22fc4X0ApWuYL+O+0v75qX1R9rpua9U=
+github.com/go-openapi/swag v0.0.0-20170606142751-f3f9494671f9/go.mod h1:DXUve3Dpr1UfpPtxFw+EFuQ41HhCWZfha5jSVRG7C7I=
+github.com/mailru/easyjson v0.0.0-20170622085338-0eb186976b9a h1:G8+YdVCmdSlPfVfkTp1BorA/dSqVMHgCjr0vbwnEIbY=
+github.com/mailru/easyjson v0.0.0-20170622085338-0eb186976b9a/go.mod h1:C1wdFJiN94OJF2b5HbByQZoLdCWB1Yqtg26g4irojpc=
+gopkg.in/yaml.v2 v2.0.0-20170407172122-cd8b52f8269e h1:o/mfNjxpTLivuKEfxzzwrJ8PmulH2wEp7t713uMwKAA=
+gopkg.in/yaml.v2 v2.0.0-20170407172122-cd8b52f8269e/go.mod h1:JAlM8MvJe8wmxCU4Bli9HhUf9+ttbYbLASfIpnQbh74=
